@@ -120,8 +120,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:004424_0000_100D990DD6F14E68"/>
-            <pb facs="tcp:004424_0001_100D815F29D3DED8"/>
+            <pb facs="unknown:004424_0000_100D990DD6F14E68"/>
+            <pb facs="unknown:004424_0001_100D815F29D3DED8"/>
             <p>THE ART OF PREACHING, IN IMITATION OF <hi>HORACE's</hi> ART of POETRY.</p>
             <p>
                <hi>LONDON,</hi> Printed: <hi>PHILADELPHIA,</hi> Re-printed, and sold by B. FRANKLIN, in <hi>Market Street.</hi> M,DCC,XXXIX.</p>
@@ -129,7 +129,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="3" facs="tcp:004424_0002_100D98BADF780F90"/>
+            <pb n="3" facs="unknown:004424_0002_100D98BADF780F90"/>
             <head>THE ART OF PREACHING, &amp;c.</head>
             <lg>
                <l>
@@ -169,7 +169,7 @@
                <l>Prink <hi>Milton</hi>'s true Sublime, with <hi>Swift</hi>'s true Wit;</l>
                <l>And <hi>Blackmore</hi>'s Gravity with <hi>Gay</hi>'s Conceit;</l>
                <l>
-                  <pb n="4" facs="tcp:004424_0003_100D98BD60CC4D20"/>
+                  <pb n="4" facs="unknown:004424_0003_100D98BD60CC4D20"/>
 Would you not laugh? Trust me that Priest's as bad,</l>
                <l>Who in a Stile now grave, now raving mad,</l>
                <l>Gives the wild Whims of dreaming Schoolmen vent,</l>
@@ -214,7 +214,7 @@ Would you not laugh? Trust me that Priest's as bad,</l>
                <l>And all Life's moral Duties they neglect.</l>
             </lg>
             <lg>
-               <pb n="5" facs="tcp:004424_0004_100D98C0676D3B30"/>
+               <pb n="5" facs="unknown:004424_0004_100D98C0676D3B30"/>
                <l>
                   <note n="(d)" place="bottom">
                      <lg>
@@ -292,7 +292,7 @@ Would you not laugh? Trust me that Priest's as bad,</l>
                </l>
             </lg>
             <lg>
-               <pb n="6" facs="tcp:004424_0005_100D98C20CD1AD60"/>
+               <pb n="6" facs="unknown:004424_0005_100D98C20CD1AD60"/>
                <l>
                   <note n="(i)" place="bottom">
                      <lg>
@@ -364,7 +364,7 @@ Would you not laugh? Trust me that Priest's as bad,</l>
                <l>Call'd wise Reformers? Those mad Sectaries?</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:004424_0006_100D98C47A457718"/>
+               <pb n="7" facs="unknown:004424_0006_100D98C47A457718"/>
                <l>
                   <note n="(n)" place="bottom">
                      <lg>
@@ -436,7 +436,7 @@ Would you not laugh? Trust me that Priest's as bad,</l>
                   </note>The Fun'ral Sermon, when it first began,</l>
                <l>Was us'd to weep the Loss of some good Man:</l>
                <l>
-                  <pb n="8" facs="tcp:004424_0007_100D98C6E72E6928"/>
+                  <pb n="8" facs="unknown:004424_0007_100D98C6E72E6928"/>
 Now any Wretch, for one small Piece of Gold,</l>
                <l>Shall have fine Praises from the Pulpit sold:</l>
                <l>But whence this Custom rose, who can decide?</l>
@@ -497,7 +497,7 @@ Now any Wretch, for one small Piece of Gold,</l>
                <l>With plain Simplicity to win the Heart.</l>
             </lg>
             <lg>
-               <pb n="9" facs="tcp:004424_0008_100D98C8EF356F18"/>
+               <pb n="9" facs="unknown:004424_0008_100D98C8EF356F18"/>
                <l>
                   <note n="(u)" place="bottom">
                      <lg>
@@ -549,7 +549,7 @@ Now any Wretch, for one small Piece of Gold,</l>
                <l>For should you Manner differ from your Theme,</l>
                <l>Or on quite different Subjects be the same,</l>
                <l>
-                  <pb n="10" facs="tcp:004424_0009_100D98CA99460FF0"/>
+                  <pb n="10" facs="unknown:004424_0009_100D98CA99460FF0"/>
 Despis'd and laugh'd at, you must travel down,</l>
                <l>And hide such Talents in some Country Town.</l>
             </lg>
@@ -607,7 +607,7 @@ Despis'd and laugh'd at, you must travel down,</l>
                <l>If you expect to thrive, or wear Lawn Sleeves.</l>
             </lg>
             <lg>
-               <pb n="11" facs="tcp:004424_0010_100D98CDEF666258"/>
+               <pb n="11" facs="unknown:004424_0010_100D98CDEF666258"/>
                <l>
                   <note n="(a)" place="bottom">
                      <lg>
@@ -671,7 +671,7 @@ Despis'd and laugh'd at, you must travel down,</l>
                <l>Reforms the Church, and guides the tottering State.</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:004424_0011_100D98CF81CDEA00"/>
+               <pb n="12" facs="unknown:004424_0011_100D98CF81CDEA00"/>
                <l>
                   <note n="(e)" place="bottom">
                      <lg>
@@ -738,7 +738,7 @@ Despis'd and laugh'd at, you must travel down,</l>
                   </note>Some things are plain, we can't misunder<g ref="char:EOLhyphen"/>stand;</l>
                <l>Some still obscure, tho' thousands have explain'd:</l>
                <l>
-                  <pb n="13" facs="tcp:004424_0012_100D98D110DE67B8"/>
+                  <pb n="13" facs="unknown:004424_0012_100D98D110DE67B8"/>
 Those influence more which Reason can con<g ref="char:EOLhyphen"/>ceive,</l>
                <l>Than such as we thro' Faith alone believe:</l>
                <l>In Those we judge, in These you <hi>may</hi> deceive:</l>
@@ -801,7 +801,7 @@ Those influence more which Reason can con<g ref="char:EOLhyphen"/>ceive,</l>
                   </note>Before, or after Sermon, Hymns of Praise</l>
                <l>Exalt the Soul, and true Devotion raise,</l>
                <l>
-                  <pb n="14" facs="tcp:004424_0013_100D98D3F2C76F78"/>
+                  <pb n="14" facs="unknown:004424_0013_100D98D3F2C76F78"/>
 In Songs of Wonder celebrate His Name,</l>
                <l>Who spread the Skies, and built the starry Frame;</l>
                <l>Or thence descending view this Globe below,</l>
@@ -858,7 +858,7 @@ In Songs of Wonder celebrate His Name,</l>
                <l>And for a Ticket, we our Reason pay.</l>
             </lg>
             <lg>
-               <pb n="15" facs="tcp:004424_0014_100D98D711CF24A0"/>
+               <pb n="15" facs="unknown:004424_0014_100D98D711CF24A0"/>
                <l>
                   <note n="(m)" place="bottom">
                      <lg>
@@ -904,7 +904,7 @@ In Songs of Wonder celebrate His Name,</l>
                <l>Yours too the private Virtues to augment,</l>
                <l>Of Prudence, Temperance, Modesty, Content.</l>
                <l>
-                  <pb n="16" facs="tcp:004424_0015_100D98D8A08C5DF0"/>
+                  <pb n="16" facs="unknown:004424_0015_100D98D8A08C5DF0"/>
 When such the Man how amiable the Priest!</l>
                <l>Of all Mankind the worthiest, and the best.</l>
             </lg>
@@ -958,7 +958,7 @@ When such the Man how amiable the Priest!</l>
                <l>We turn our Heads, and laugh at all you say.</l>
             </lg>
             <lg>
-               <pb n="17" facs="tcp:004424_0016_100D98DA6F65CDE8"/>
+               <pb n="17" facs="unknown:004424_0016_100D98DA6F65CDE8"/>
                <l>
                   <note n="(q)" place="bottom">
                      <lg>
@@ -1014,7 +1014,7 @@ When such the Man how amiable the Priest!</l>
                   </note>In jingling <hi>Bev'ridge</hi> if I chance to see</l>
                <l>One Word of Sense, I prize the Rarity:</l>
                <l>
-                  <pb n="18" facs="tcp:004424_0017_100D98DCAB1C1A30"/>
+                  <pb n="18" facs="unknown:004424_0017_100D98DCAB1C1A30"/>
 But if in <hi>Hooker, Sprat</hi> or <hi>Tillotson,</hi>
                </l>
                <l>A Thought unworthy of themselves is shown,</l>
@@ -1061,7 +1061,7 @@ But if in <hi>Hooker, Sprat</hi> or <hi>Tillotson,</hi>
                <l>But all will preach, without the least Pretence</l>
                <l>To Virtue, Learning, Art, or Eloquence.</l>
                <l>
-                  <pb n="19" facs="tcp:004424_0018_100D98DF1A502CF0"/>
+                  <pb n="19" facs="unknown:004424_0018_100D98DF1A502CF0"/>
 Why not? you cry; they plainly see, no doubt,</l>
                <l>A Priest may grow Right Reverend without.</l>
             </lg>
@@ -1114,7 +1114,7 @@ Why not? you cry; they plainly see, no doubt,</l>
                <l>And all Mankind, by different Priests, were damn'd.</l>
             </lg>
             <lg>
-               <pb n="20" facs="tcp:004424_0019_100D98E11E9D3438"/>
+               <pb n="20" facs="unknown:004424_0019_100D98E11E9D3438"/>
                <l>
                   <note n="(x)" place="bottom">
                      <lg>
@@ -1167,7 +1167,7 @@ Why not? you cry; they plainly see, no doubt,</l>
                <l>Where empty Boasts of much superior Sense,</l>
                <l>Draw from the cheated Crowd their idle Pence,</l>
                <l>
-                  <pb n="21" facs="tcp:004424_0020_100D98E3DBC13598"/>
+                  <pb n="21" facs="unknown:004424_0020_100D98E3DBC13598"/>
 So the great <hi>H—ley</hi> hires for half a Crown,</l>
                <l>A quack Advertisement to tell the Town</l>
                <l>Of some strange Point to be disputed on:</l>
@@ -1219,7 +1219,7 @@ So the great <hi>H—ley</hi> hires for half a Crown,</l>
                <l>But Parsons are too proud their Works to mend,</l>
                <l>And every Fault with Arrogance defend:</l>
                <l>
-                  <pb n="22" facs="tcp:004424_0021_100D98E62E278188"/>
+                  <pb n="22" facs="unknown:004424_0021_100D98E62E278188"/>
 Think them too sacred to be criticiz'd,</l>
                <l>And rather chuse to let them be despis'd.</l>
             </lg>
